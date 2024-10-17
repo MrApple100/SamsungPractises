@@ -12,3 +12,8 @@ fun main() {
 //        println("i = $i")
 //    }
 }
+
+fun Hi(){
+
+
+}
